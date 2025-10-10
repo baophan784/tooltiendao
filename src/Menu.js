@@ -231,7 +231,7 @@ const Menu = ({
       >
         <motion.img
           className="minimized-avatar"
-          src="/icon.png"
+          src="/robot.gif"
           alt="Avatar"
           style={{
             width: '60px',
