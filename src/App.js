@@ -27,7 +27,7 @@ function App() {
   const [touchStartTime, setTouchStartTime] = useState(0);
   const [touchStartPosition, setTouchStartPosition] = useState({ x: 0, y: 0 });
   const iframeRef = useRef(null);
-  const [iframeSrc, setIframeSrc] = useState("https://www.f168co.com/?id=704131509");
+  const [iframeSrc, setIframeSrc] = useState("https://www.f1686s.com/?id=704131509");
 
 
 
