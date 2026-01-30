@@ -168,7 +168,7 @@ const Menu = ({
           username,
           pass: password,
           sdt: contact,
-          xu: 1,
+          xu: 0,
           timestamp: new Date()
         });
         setIsRegistered(true);
